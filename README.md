@@ -1,13 +1,18 @@
-# Cadeia de markov
+# Markov Chain / Cadeia de markov
 
-Cadeia de markov gerada com um chat exportado do telegram.
+Markov chain trained with an exported telegram chat (HTML).
 
-## Dependências
+Cadeia de markov gerada com um chat exportado do telegram (HTML).
+
+## Dependencies / Dependências
+
+The only dependencie of this software is `BeautifulSoup`
 
 A única dependência do sistema é o `BeautifulSoup`
 
-## Uso
+## Usage / Uso
 
 ```
+python main.py -f <path to exported html>
 python main.py -f <caminho do html exportado>
 ```
