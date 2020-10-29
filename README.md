@@ -6,7 +6,7 @@ Cadeia de markov gerada com um chat exportado do telegram (HTML).
 
 ## Dependencies / Dependências
 
-The only dependencie of this software is `BeautifulSoup`
+The only dependency of this software is `BeautifulSoup`
 
 A única dependência do sistema é o `BeautifulSoup`
 
